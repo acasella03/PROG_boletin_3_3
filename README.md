@@ -1,0 +1,1 @@
+#Enunciado: Fai un programa , para o software dunha máquina, que converta una cantidade enteira de diñeiro, que está en billetes de 100, 20, 5 e moedas de 1 € , no seu equivalente en euros ( exp.  2 billetes de 100, 3 -> 20 , 6 moedas de 1  visualizaríamos 266 € ).
